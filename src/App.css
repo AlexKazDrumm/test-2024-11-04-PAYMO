@@ -1,0 +1,21 @@
+body {
+  padding-top: 48px;
+  font-family: 'VTB Group Book', sans-serif;
+  color: #22252B;
+  background-color: #F5F5F5;
+}
+
+@font-face {
+  font-family: 'VTB Group Book';
+  src: url('../public/fonts/VTBGroup/VTB_Group_Book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'VTB Group Light';
+  src: url('../public/fonts/VTBGroup/VTB_Group_Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'VTB Group Bold';
+  src: url('../public/fonts/VTBGroup/VTB_Group_Bold.ttf') format('truetype');
+}
