@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-2024-11-04-PAYMO/static/css/main.fd7fa64b.css",
+    "main.css": "/test-2024-11-04-PAYMO/static/css/main.538cb533.css",
     "main.js": "/test-2024-11-04-PAYMO/static/js/main.4cd4e0d9.js",
     "static/js/453.6599eb49.chunk.js": "/test-2024-11-04-PAYMO/static/js/453.6599eb49.chunk.js",
     "static/media/VTB_Group_Light.ttf": "/test-2024-11-04-PAYMO/static/media/VTB_Group_Light.492f2f1767f15a09501d.ttf",
     "static/media/VTB_Group_Bold.ttf": "/test-2024-11-04-PAYMO/static/media/VTB_Group_Bold.6e66811de7776ecb9d63.ttf",
     "static/media/VTB_Group_Book.ttf": "/test-2024-11-04-PAYMO/static/media/VTB_Group_Book.29495bcf4ea518065fba.ttf",
     "index.html": "/test-2024-11-04-PAYMO/index.html",
-    "main.fd7fa64b.css.map": "/test-2024-11-04-PAYMO/static/css/main.fd7fa64b.css.map",
+    "main.538cb533.css.map": "/test-2024-11-04-PAYMO/static/css/main.538cb533.css.map",
     "main.4cd4e0d9.js.map": "/test-2024-11-04-PAYMO/static/js/main.4cd4e0d9.js.map",
     "453.6599eb49.chunk.js.map": "/test-2024-11-04-PAYMO/static/js/453.6599eb49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd7fa64b.css",
+    "static/css/main.538cb533.css",
     "static/js/main.4cd4e0d9.js"
   ]
 }
